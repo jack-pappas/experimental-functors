@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PriorityQueues", "PriorityQueues\PriorityQueues.fsproj", "{DDB392C1-B68C-4697-935C-2D1257C53EFC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PriorityQueues.Cli", "PriorityQueues.Cli\PriorityQueues.Cli.fsproj", "{ABF8617D-3385-4BC1-B4BE-79FF5EC0C0B7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PriorityQueues.Tests", "PriorityQueues.Tests\PriorityQueues.Tests.fsproj", "{5E8FBC34-EF56-4533-89D1-B148CFE73973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB392C1-B68C-4697-935C-2D1257C53EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB392C1-B68C-4697-935C-2D1257C53EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB392C1-B68C-4697-935C-2D1257C53EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB392C1-B68C-4697-935C-2D1257C53EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF8617D-3385-4BC1-B4BE-79FF5EC0C0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF8617D-3385-4BC1-B4BE-79FF5EC0C0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF8617D-3385-4BC1-B4BE-79FF5EC0C0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF8617D-3385-4BC1-B4BE-79FF5EC0C0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8FBC34-EF56-4533-89D1-B148CFE73973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8FBC34-EF56-4533-89D1-B148CFE73973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8FBC34-EF56-4533-89D1-B148CFE73973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8FBC34-EF56-4533-89D1-B148CFE73973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
